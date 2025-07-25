@@ -6,5 +6,5 @@ This project aims to predict customer churn for a telecom company using a datase
 |-------------|--------------------------------------------|
 | Aishwarya   | Data Cleaning, Preprocessing, Git Setup    |
 | Mageshwari  | Exploratory Data Analysis, Visualizations  |
-| Zubair      | ML Modeling (Logistic, Decision Tree), Evaluation |
-| Sudharsan   | Final Model Tuning (ROC/AUC), PPT Preparation  |
+| Zubair      | ML Modeling (Logistic, Decision Tree), Evaluation Final Model Tuning (ROC/AUC)|
+| Sudharsan   | Dashboard using streamlit, PPT Preparation  |
