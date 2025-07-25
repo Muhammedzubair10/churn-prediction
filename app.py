@@ -3,10 +3,10 @@ import pandas as pd
 import joblib
 
 # Load the trained model and scaler
-model = joblib.load('..models/churn_model.pkl')
-scaler = joblib.load('..models/scaler.pkl')
+model = joblib.load('churn_model.pkl')
+scaler = joblib.load('scaler.pkl')
 # Load the column names from training
-model_columns = joblib.load('..models/model_columns.pkl') # Assumed to be saved during model training
+model_columns = joblib.load('model_columns.pkl') # Assumed to be saved during model training
 
 st.title("Customer Churn Prediction")
 st.write("Enter customer details to predict churn.")
